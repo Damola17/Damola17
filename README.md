@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Damola17
-- 👀 I’m interested in product design
-- 🌱 I’m currently learning product design at the Zuri Training
-- 💞️ I’m looking to collaborate on different design paradigmns
+- 👀 I’m interested in Coding     
+- 🌱  I'm passionate about writing codes
 - 📫 How to reach me ...@Nikeji25 on twitter
 
 <!---
