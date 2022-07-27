@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Damola17
-- 👀 I’m interested in Coding     
+- 👀 I’m interested in Frontend     
 - 🌱  I'm passionate about writing codes
 - 📫 How to reach me ...@Nikeji25 on twitter
 
